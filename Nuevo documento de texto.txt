@@ -1,0 +1,8 @@
+1. GITHUB O GIT
+
+Evita complicaciones en el transpaso de archivos
+
+2. INSTALACION
+3. LIGAR EL GITHUB A UNA CARPETA
+ - Click derecho y "Abrir con GIT Bash"
+4. CREAR UNA CUENTA DE GITHUB
